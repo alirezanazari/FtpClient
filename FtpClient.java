@@ -9,7 +9,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 /**
- * Created by Alireza on 3/13/17.
+ * Created by Alireza Nazari on 3/13/17.
  */
 public class FtpClient {
 
